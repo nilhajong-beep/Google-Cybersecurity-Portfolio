@@ -27,20 +27,38 @@ The portfolio highlights my ability to conduct security audits, assess risks, ev
 
 ---
 
-## Skills Demonstrated
+## 🛠️ Technical Skills
+
+### Governance, Risk & Compliance (GRC)
 
 * Security Auditing
 * Risk Assessment
 * Compliance Analysis
-* Security Documentation
-* Risk Management
 * Security Controls Evaluation
-* Incident Response Fundamentals
-* Network Security
-* Linux Fundamentals
-* SQL Fundamentals
-* Python Automation
-* Professional Technical Writing
+* Risk Management
+
+### Security Fundamentals
+
+* CIA Triad
+* NIST Cybersecurity Framework (CSF)
+* NIST Risk Management Framework (RMF)
+* Security Controls
+* Security Best Practices
+
+### Documentation & Reporting
+
+* Audit Scope Definition
+* Security Audit Reports
+* Risk Registers
+* Security Improvement Planning
+* Technical Documentation
+
+### Transferable Skills
+
+* Analytical Thinking
+* Problem Solving
+* Technical Report Writing
+* Documentation Management
 
 ---
 
