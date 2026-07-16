@@ -148,13 +148,33 @@ The remaining courses will be added as they are completed.
 
 ---
 
-## Tools Used
+## 💻 Tools & Technologies
+
+### Documentation
+
+* Microsoft Word
+* Google Docs
+* Markdown
+
+### Version Control
 
 * GitHub
-* Markdown
-* Microsoft Word
+
+### Productivity
+
 * Microsoft Excel
-* Google Docs
+
+### Security Frameworks
+
+* NIST Cybersecurity Framework (CSF)
+* NIST Risk Management Framework (RMF)
+
+### Compliance Standards
+
+* PCI DSS
+* GDPR
+* SOC
+
 
 ---
 
