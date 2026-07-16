@@ -1,86 +1,109 @@
-# Google Cybersecurity Professional Certificate Portfolio
+# 🛡️ Google Cybersecurity Professional Certificate Portfolio
 
-## About This Portfolio
+## About
 
-This repository documents the practical projects I completed while studying the Google Cybersecurity Professional Certificate.
+Welcome to my Google Cybersecurity Professional Certificate portfolio.
 
-The portfolio demonstrates my developing skills in security auditing, risk management, network security, Linux, SQL, incident response, threat analysis, vulnerability management, Python, and security documentation.
+This repository showcases the hands-on projects, case studies, and technical documentation I completed while working through the Google Cybersecurity Professional Certificate. Each project demonstrates practical cybersecurity skills aligned with industry best practices and is presented in a professional, recruiter-friendly format.
 
-Each project has been organised as a professional case study with clear objectives, findings, recommendations, and supporting documents.
+The portfolio highlights my ability to perform security audits, assess risk, document findings, and recommend security improvements using established frameworks and methodologies.
 
-## Portfolio Projects
+---
 
-| Course                                             | Project                                                                                              | Skills Demonstrated                                                         | Status    |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------- |
-| Course 2: Manage Security Risks                    | [Botium Toys Internal Security Audit](./course-02-manage-security-risks/botium-toys-security-audit/) | Security auditing, risk assessment, compliance analysis, control evaluation | Completed |
-| Course 3: Networks and Network Security            | Project coming soon                                                                                  | Network analysis, network security, incident investigation                  | Planned   |
-| Course 4: Linux and SQL                            | Project coming soon                                                                                  | Linux commands, SQL queries, access control                                 | Planned   |
-| Course 5: Assets, Threats, and Vulnerabilities     | Project coming soon                                                                                  | Asset classification, vulnerability assessment, threat analysis             | Planned   |
-| Course 6: Detection and Response                   | Project coming soon                                                                                  | Incident response, packet analysis, security monitoring                     | Planned   |
-| Course 7: Automate Cybersecurity Tasks with Python | Project coming soon                                                                                  | Python scripting, automation, data analysis                                 | Planned   |
+## Portfolio Objectives
 
-## Current Featured Project
+* Demonstrate practical cybersecurity knowledge through real-world case studies.
+* Build a professional GitHub portfolio for cybersecurity job applications.
+* Develop technical documentation and reporting skills.
+* Apply security frameworks and risk management principles.
+* Showcase continuous learning throughout the certification program.
+
+---
+
+## Skills Demonstrated
+
+* Security Auditing
+* Risk Assessment
+* Compliance Analysis
+* Security Documentation
+* Risk Management
+* Security Controls Evaluation
+* Incident Response Fundamentals
+* Network Security
+* Linux Fundamentals
+* SQL Fundamentals
+* Python Automation
+* Professional Technical Writing
+
+---
+
+## Portfolio Structure
+
+| Course                                                        | Project                             | Status      |
+| ------------------------------------------------------------- | ----------------------------------- | ----------- |
+| Course 2 – Manage Security Risks                              | Botium Toys Internal Security Audit | ✅ Completed |
+| Course 3 – Connect and Protect: Networks and Network Security | Coming Soon                         | ⏳           |
+| Course 4 – Tools of the Trade: Linux and SQL                  | Coming Soon                         | ⏳           |
+| Course 5 – Assets, Threats, and Vulnerabilities               | Coming Soon                         | ⏳           |
+| Course 6 – Sound the Alarm: Detection and Response            | Coming Soon                         | ⏳           |
+| Course 7 – Automate Cybersecurity Tasks with Python           | Coming Soon                         | ⏳           |
+| Course 8 – Put It to Work: Prepare for Cybersecurity Jobs     | Coming Soon                         | ⏳           |
+
+---
+
+## Featured Project
 
 ### Botium Toys Internal Security Audit
 
-Conducted a security audit for a fictional retail organisation to evaluate its current security posture, identify missing controls, assess compliance requirements, and recommend remediation actions.
+This project presents a complete internal security audit for the fictional Botium Toys organization. It includes the audit scope, compliance checklist, security audit report, risk register, and a security improvement plan.
 
-**Key skills demonstrated:**
+**Project Folder**
 
-* Security auditing
-* Risk assessment
-* Compliance analysis
-* Control evaluation
-* Security recommendations
-* Professional documentation
+`course-02-manage-security-risks/botium-toys-security-audit`
 
-[View the complete Botium Toys Security Audit](./course-02-manage-security-risks/botium-toys-security-audit/)
+---
 
-## Core Skills
+## Frameworks and Standards
 
-* Security risk management
-* Security auditing
-* Risk assessment
-* Compliance analysis
-* Access-control evaluation
-* Network security fundamentals
-* Linux fundamentals
-* SQL fundamentals
-* Incident response
-* Vulnerability management
-* Security documentation
-
-## Frameworks and Concepts
-
-* NIST Cybersecurity Framework
-* NIST Risk Management Framework
-* CIA triad
-* OWASP security principles
+* NIST Cybersecurity Framework (CSF)
+* NIST Risk Management Framework (RMF)
+* CIA Triad
 * PCI DSS
 * GDPR
-* SOC controls
+* Security Best Practices
 
-## Tools and Technologies
+---
+
+## Tools Used
 
 * GitHub
 * Markdown
 * Microsoft Word
 * Microsoft Excel
 * Google Docs
-* Google Sheets
-* Linux
-* SQL
-* Python
+
+---
 
 ## Career Objective
 
-I am a B.Com graduate transitioning into cybersecurity through structured training and practical portfolio projects. My goal is to begin my career as a junior cybersecurity analyst and contribute to security monitoring, risk management, vulnerability management, and incident-response activities.
+I am building practical cybersecurity skills through hands-on projects and technical documentation. My goal is to begin my career as a Cybersecurity Analyst and continue developing expertise in risk management, security operations, vulnerability management, and incident response.
+
+---
 
 ## Disclaimer
 
-The projects in this repository are based on fictional scenarios and educational activities completed during cybersecurity training. They have been independently organised and documented for professional portfolio presentation. No real company systems or confidential information were accessed.
+The projects in this repository are based on educational case studies from the Google Cybersecurity Professional Certificate. They have been independently organized and documented for professional portfolio purposes. No real company systems or confidential information were accessed.
 
+---
+## Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sunil-hajong-668624268
+- 💻 GitHub: https://github.com/nilhajong-beep
+- 📄 Resume: *(Coming Soon)*
+  
+---
 ## Author
 
 **Sunil Hajong**
+
 Aspiring Cybersecurity Analyst
