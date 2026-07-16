@@ -1,53 +1,88 @@
-# Course 2: Play It Safe - Manage Security Risks
+# Botium Toys Internal Security Audit
 
-## Overview
+## Project Overview
 
-This folder contains the projects and documentation completed as part of **Course 2: Play It Safe - Manage Security Risks** from the Google Cybersecurity Professional Certificate.
+This project presents a comprehensive internal security audit for **Botium Toys**, a fictional retail organization used as a case study in the Google Cybersecurity Professional Certificate.
 
-The focus of this course is understanding how organizations identify, assess, and manage security risks. Through practical activities, I applied cybersecurity concepts to evaluate security controls, identify risks, review compliance requirements, and develop recommendations for improving an organization's security posture.
+The objective of the audit was to evaluate the organization's current security posture, identify risks and control gaps, assess compliance with security requirements, and recommend practical improvements to strengthen its cybersecurity program.
 
-## Learning Outcomes
+The project follows a structured audit methodology similar to those used in professional security assessments.
 
-During this course, I developed practical experience in:
+---
 
-* Security auditing
-* Risk assessment
-* Security controls evaluation
-* Compliance analysis
-* Security documentation
-* Risk management
-* Professional report writing
+## Project Objectives
 
-## Project
+* Define the scope and objectives of the audit.
+* Evaluate existing administrative, technical, and physical security controls.
+* Assess compliance with recognized security standards.
+* Identify and prioritize organizational risks.
+* Develop a practical security improvement plan.
 
-### Botium Toys Internal Security Audit
+---
 
-This project presents a complete internal security audit for the fictional Botium Toys organization. The project includes:
+## Project Documents
 
-* Audit Scope and Goals
-* Controls and Compliance Checklist
-* Security Audit Report
-* Risk Register and Matrix
-* Security Improvement Plan
+| Step | Document                          | Description                                                           |
+| ---- | --------------------------------- | --------------------------------------------------------------------- |
+| 01   | Audit Scope and Goals             | Defines the audit objectives, scope, and business context.            |
+| 02   | Controls and Compliance Checklist | Reviews existing controls and evaluates compliance requirements.      |
+| 03   | Security Audit Report             | Summarizes audit findings, identified risks, and observations.        |
+| 04   | Risk Register and Matrix          | Prioritizes identified risks based on likelihood and business impact. |
+| 05   | Security Improvement Plan         | Recommends actions to improve the organization's security posture.    |
+
+---
 
 ## Skills Demonstrated
 
-* Risk Identification
-* Security Documentation
-* Compliance Evaluation
+* Security Auditing
+* Risk Assessment
+* Compliance Analysis
+* Security Controls Evaluation
+* Technical Documentation
+* Risk Prioritization
 * Security Recommendations
-* Technical Writing
-* Cybersecurity Best Practices
+* Professional Report Writing
+
+---
 
 ## Frameworks and Concepts
 
 * NIST Cybersecurity Framework (CSF)
 * NIST Risk Management Framework (RMF)
 * CIA Triad
+* Risk Management
 * Security Controls
-* Risk Management Principles
+* Compliance Best Practices
+
+---
+
+## Repository Structure
+
+```text
+botium-toys-security-audit/
+│
+├── 01-Audit-Scope-and-Goals/
+├── 02-Controls-and-Compliance-Checklist/
+├── 03-Security-Audit-Report/
+├── 04-Risk-Register-and-Matrix/
+└── 05-Security-Improvement-Plan/
+```
+
+---
+
+## Key Learning Outcomes
+
+Through this project, I gained practical experience in conducting structured security audits, evaluating organizational security controls, documenting findings, assessing cybersecurity risks, and developing prioritized security improvement recommendations.
+
+---
 
 ## Disclaimer
 
-This project is based on an educational case study from the Google Cybersecurity Professional Certificate and has been independently organized into a professional portfolio format.
+This project is based on a fictional business scenario provided through the Google Cybersecurity Professional Certificate. It has been independently organized and documented as part of my professional cybersecurity portfolio.
 
+---
+
+## Author
+
+**Sunil Hajong**
+Aspiring Cybersecurity Analyst
