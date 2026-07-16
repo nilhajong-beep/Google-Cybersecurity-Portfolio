@@ -1,12 +1,19 @@
 # 🛡️ Google Cybersecurity Professional Certificate Portfolio
 
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0A66C2)
+![Portfolio](https://img.shields.io/badge/Type-Professional%20Portfolio-success)
+![Security Audit](https://img.shields.io/badge/Skill-Security%20Auditing-orange)
+![Risk Assessment](https://img.shields.io/badge/Skill-Risk%20Assessment-red)
+![NIST CSF](https://img.shields.io/badge/Framework-NIST%20CSF-blueviolet)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 ## About
 
 Welcome to my Google Cybersecurity Professional Certificate portfolio.
 
-This repository showcases the hands-on projects, case studies, and technical documentation I completed while working through the Google Cybersecurity Professional Certificate. Each project demonstrates practical cybersecurity skills aligned with industry best practices and is presented in a professional, recruiter-friendly format.
+This repository showcases hands-on projects, case studies, and technical documentation completed while working through the Google Cybersecurity Professional Certificate. Each project demonstrates practical cybersecurity skills and is presented in a professional, recruiter-friendly format.
 
-The portfolio highlights my ability to perform security audits, assess risk, document findings, and recommend security improvements using established frameworks and methodologies.
+The portfolio highlights my ability to conduct security audits, assess risks, evaluate controls, document findings, and recommend security improvements using recognised frameworks and methodologies.
 
 ---
 
